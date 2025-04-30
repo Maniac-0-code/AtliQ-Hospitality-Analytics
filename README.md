@@ -10,6 +10,11 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Objective: To provide AtliQ Grands with insights from their historical data to regain their market share and revenue.
 
+## Live Dashboard
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzhjNWRmMmMtZTNhOC00Y2RkLWE1ODQtODcwNDcyYThiZTFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)
+
 __Skills and Technologies Used__
 
 - **Data Visualization:** Created interactive dashboards in Power BI.
@@ -28,3 +33,6 @@ __INSIGHTS__
 * Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
 * AtliQ lost around 298 Million in cancellation.
 * Elite type rooms has the most booking and as well higher cancellation rate.
+
+  ## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorvd)
